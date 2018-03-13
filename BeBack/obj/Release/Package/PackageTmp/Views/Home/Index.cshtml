@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Tech Serv";
+}
+
+@section scripts {
+
+    <script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    @*<script type="text/javascript" src="~/signalr/hubs"></script>*@
+    <script type="text/javascript" src="~/signalr/hubs"></script>
+
+    <script type="text/javascript" src="~/Scripts/flipclock.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/beback-client.js"></script>
+}
+
+<div class="wrapper">
+    <div id="overlay"></div>
+    <div class="jumbotron">
+        <h1 id="pageTitle"></h1>
+        <h2 id="pageSubtitle">
+            <iframe id="calendar" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ggracia%40email.arizona.edu&amp;color=%232952A3&amp;src=agr456%40email.arizona.edu&amp;color=%238D6F47&amp;src=ctcantrell%40email.arizona.edu&amp;color=%230F4B38&amp;src=gallucci%40email.arizona.edu&amp;color=%2323164E&amp;src=jfragoso%40email.arizona.edu&amp;color=%23B1440E&amp;src=email.arizona.edu_susf9db0kel18oetpuje81h1jk%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FPhoenix" style="border-width:0; margin-top:-55px;" width="100%" height="560" frameborder="0" scrolling="no"></iframe>
+        </h2>
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <h2 id="message"></h2>
+                <br />
+                <div id="clockWrapper">
+                    <div class="clock" style="margin:0em;"></div>
+                </div>
+
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+
+    </div>
+
+</div>
+
+
