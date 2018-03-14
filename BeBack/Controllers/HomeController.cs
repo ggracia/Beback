@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using GenericAPI;
+//using GenericAPI;
 
 namespace BeBack.Controllers
 {
@@ -11,7 +11,7 @@ namespace BeBack.Controllers
     {
         public ActionResult Index()
         {
-            var g = new GenericAPI.GenericAPI("https://www.wifisensorcloud.com/graphdata.asmx/Readings?sessionid=7647027", "", "", "", "", "", 5, 500);
+            //var g = new GenericAPI.GenericAPI("https://www.wifisensorcloud.com/graphdata.asmx/Readings?sessionid=7647027", "", "", "", "", "", 5, 500);
             return View();
         }
 

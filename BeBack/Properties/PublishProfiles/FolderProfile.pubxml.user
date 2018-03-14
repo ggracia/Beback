@@ -23,10 +23,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/22/2017 14:45:17</publishTime>
     </File>
     <File Include="bin/BeBack.dll">
-      <publishTime>08/15/2017 10:36:18</publishTime>
+      <publishTime>03/13/2018 17:48:53</publishTime>
     </File>
     <File Include="bin/BeBack.pdb">
-      <publishTime>08/15/2017 10:36:18</publishTime>
+      <publishTime>03/13/2018 17:48:53</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/09/2016 21:37:14</publishTime>
@@ -254,7 +254,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/23/2014 13:57:34</publishTime>
     </File>
     <File Include="Content/beback.css">
-      <publishTime>08/08/2017 11:46:30</publishTime>
+      <publishTime>03/13/2018 17:46:13</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css">
       <publishTime>06/22/2017 14:45:14</publishTime>
@@ -283,8 +283,653 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/flipclock.css">
       <publishTime>06/22/2017 14:46:25</publishTime>
     </File>
+    <File Include="Content/images/ajax-loader.gif">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/action-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/action-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/alert-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/alert-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-l-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-l-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-r-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-r-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-d-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-l-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-l-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-r-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-r-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-l-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-l-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-r-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-r-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/arrow-u-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/audio-black.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/audio-white.png">
+      <publishTime>03/13/2018 17:38:15</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/back-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/back-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/bars-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/bars-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/bullets-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/bullets-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/calendar-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/calendar-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/camera-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/camera-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-d-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-d-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-l-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-l-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-r-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-r-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-u-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/carat-u-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/check-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/check-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/clock-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/clock-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/cloud-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/cloud-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/comment-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/comment-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/delete-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/delete-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/edit-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/edit-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/eye-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/eye-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/forbidden-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/forbidden-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/forward-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/forward-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/gear-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/gear-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/grid-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/grid-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/heart-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/heart-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/home-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/home-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/info-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/info-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/location-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/location-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/lock-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/lock-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/mail-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/mail-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/minus-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/minus-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/navigation-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/navigation-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/phone-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/phone-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/plus-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/plus-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/power-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/power-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/recycle-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/recycle-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/refresh-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/refresh-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/search-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/search-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/shop-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/shop-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/star-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/star-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/tag-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/tag-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/user-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/user-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/video-black.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-png/video-white.png">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/action-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/action-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/alert-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/alert-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-l-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-l-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-r-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-r-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-d-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-l-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-l-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-r-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-r-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-l-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-l-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-r-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-r-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/arrow-u-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/audio-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/audio-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/back-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/back-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/bars-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/bars-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/bullets-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/bullets-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/calendar-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/calendar-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/camera-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/camera-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-d-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-d-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-l-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-l-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-r-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-r-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-u-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/carat-u-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/check-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/check-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/clock-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/clock-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/cloud-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/cloud-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/comment-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/comment-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/delete-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/delete-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/edit-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/edit-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/eye-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/eye-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/forbidden-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/forbidden-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/forward-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/forward-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/gear-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/gear-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/grid-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/grid-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/heart-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/heart-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/home-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/home-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/info-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/info-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/location-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/location-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/lock-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/lock-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/mail-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/mail-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/minus-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/minus-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/navigation-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/navigation-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/phone-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/phone-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/plus-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/plus-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/power-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/power-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/recycle-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/recycle-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/refresh-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/refresh-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/search-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/search-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/shop-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/shop-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/star-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/star-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/tag-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/tag-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/user-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/user-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/video-black.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/images/icons-svg/video-white.svg">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile-1.4.5.css">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:14</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.external-png-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.external-png-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.icons-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.icons-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.inline-png-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.inline-png-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.inline-svg-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.inline-svg-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.structure-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.structure-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.theme-1.4.5.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Content/jquery.mobile.theme-1.4.5.min.css">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
     <File Include="Content/Site.css">
-      <publishTime>09/22/2017 16:47:08</publishTime>
+      <publishTime>03/13/2018 15:05:29</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>08/15/2017 10:18:40</publishTime>
@@ -314,16 +959,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/28/2017 15:22:03</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>06/22/2017 14:49:53</publishTime>
+      <publishTime>03/13/2018 17:38:15</publishTime>
     </File>
     <File Include="Scripts/beback-admin.js">
-      <publishTime>08/08/2017 12:01:45</publishTime>
+      <publishTime>03/13/2018 17:47:34</publishTime>
     </File>
     <File Include="Scripts/beback-client.js">
-      <publishTime>09/22/2017 16:47:53</publishTime>
+      <publishTime>03/14/2018 08:59:50</publishTime>
     </File>
     <File Include="Scripts/beback.js">
       <publishTime>06/26/2017 09:53:10</publishTime>
+    </File>
+    <File Include="Scripts/bebackAdmin.js">
+      <publishTime>03/14/2018 09:02:42</publishTime>
+    </File>
+    <File Include="Scripts/bebackClient.js">
+      <publishTime>03/14/2018 09:03:41</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>06/22/2017 14:45:14</publishTime>
@@ -354,6 +1005,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Scripts/jquery-3.1.1.slim.min.map">
       <publishTime>06/22/2017 14:45:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.mobile-1.4.5.js">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.mobile-1.4.5.min.js">
+      <publishTime>03/13/2018 17:38:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.mobile-1.4.5.min.map">
+      <publishTime>03/13/2018 17:38:13</publishTime>
     </File>
     <File Include="Scripts/jquery.signalR-2.2.2.js">
       <publishTime>06/22/2017 14:46:01</publishTime>
@@ -389,16 +1049,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/22/2017 14:45:23</publishTime>
     </File>
     <File Include="Views/Home/Admin.cshtml">
-      <publishTime>08/08/2017 12:00:15</publishTime>
+      <publishTime>03/14/2018 09:02:11</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>01/08/2018 12:23:57</publishTime>
+      <publishTime>03/14/2018 09:07:36</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>06/22/2017 13:06:38</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>08/15/2017 10:18:49</publishTime>
+      <publishTime>03/13/2018 15:21:04</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>06/22/2017 13:06:38</publishTime>
@@ -407,7 +1067,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/22/2017 13:06:38</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/22/2017 18:57:09</publishTime>
+      <publishTime>03/13/2018 17:48:53</publishTime>
     </File>
   </ItemGroup>
 </Project>

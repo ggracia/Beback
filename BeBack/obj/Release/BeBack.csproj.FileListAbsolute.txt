@@ -104,3 +104,4 @@ E:\Projects\BeBack\BeBack\bin\System.Web.Http.WebHost.xml
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.dll
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.pdb
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.csprojResolveAssemblyReference.cache
+E:\Projects\BeBack\BeBack\obj\Release\BeBack.csproj.CoreCompileInputs.cache

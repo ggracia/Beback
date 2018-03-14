@@ -83,5 +83,6 @@ E:\Projects\BeBack\BeBack.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
 E:\Projects\BeBack\BeBack.Tests\bin\Debug\System.Web.Http.WebHost.xml
 E:\Projects\BeBack\BeBack.Tests\bin\Debug\System.Net.Http.Formatting.xml
 E:\Projects\BeBack\BeBack.Tests\obj\Debug\BeBack.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\BeBack\BeBack.Tests\obj\Debug\BeBack.Tests.csproj.CoreCompileInputs.cache
 E:\Projects\BeBack\BeBack.Tests\obj\Debug\BeBack.Tests.dll
 E:\Projects\BeBack\BeBack.Tests\obj\Debug\BeBack.Tests.pdb
