@@ -1,9 +1,17 @@
 ﻿.wrapper {
     position: relative;
+    
+}
+
+#calendar {
+    
+    height: 600px !important;
+    
 }
 
 .body-content {
     width:100%;
+    
 }
 #overlay {
     position: absolute;
@@ -23,6 +31,9 @@
 
 .jumbotron {
     background-color: #E6E3D9;
+    
+    padding: 4rem 0.5rem 0 !important;
+    margin: 0 0 0 0 !important;
 }
 
 .navbar-fixed-top {
@@ -38,14 +49,14 @@
 }
 
 .presence {
-    font-size: 200%;
-    margin-bottom: 15px;
+    font-size: 150%;
+    margin-bottom: 10px;
     list-style-type: none;
     width: 100%;
 }
 
 #clockWrapper {
-    margin-top: 40px;
+    /*margin-top: 40px;*/
     text-align:center;
 }
 .prescenceNotes div {

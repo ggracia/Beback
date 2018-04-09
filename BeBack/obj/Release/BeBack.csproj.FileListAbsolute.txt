@@ -80,10 +80,8 @@ E:\Projects\BeBack\BeBack\bin\System.Web.WebPages.Razor.dll
 E:\Projects\BeBack\BeBack\bin\WebGrease.dll
 E:\Projects\BeBack\BeBack\bin\Antlr3.Runtime.pdb
 E:\Projects\BeBack\BeBack\bin\Microsoft.AI.DependencyCollector.xml
-E:\Projects\BeBack\BeBack\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\Projects\BeBack\BeBack\bin\Microsoft.AI.Web.xml
 E:\Projects\BeBack\BeBack\bin\Microsoft.AI.WindowsServer.xml
-E:\Projects\BeBack\BeBack\bin\Microsoft.ApplicationInsights.xml
 E:\Projects\BeBack\BeBack\bin\Microsoft.AspNet.SignalR.Core.xml
 E:\Projects\BeBack\BeBack\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 E:\Projects\BeBack\BeBack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
@@ -105,3 +103,8 @@ E:\Projects\BeBack\BeBack\obj\Release\BeBack.dll
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.pdb
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.csprojResolveAssemblyReference.cache
 E:\Projects\BeBack\BeBack\obj\Release\BeBack.csproj.CoreCompileInputs.cache
+E:\Projects\BeBack\BeBack\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\BeBack\BeBack\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\BeBack\BeBack\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\BeBack\BeBack\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\BeBack\BeBack\bin\System.Diagnostics.DiagnosticSource.xml

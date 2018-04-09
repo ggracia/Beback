@@ -1,0 +1,92 @@
+﻿@{
+    ViewBag.Title = "Console";
+    
+}
+
+@section scripts {
+
+    <script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.3.min.js"></script>
+    @*<script type="text/javascript" src="~/signalr/hubs"></script>*@
+    <script type="text/javascript" src="~/signalr/hubs"></script>
+    
+    <script type="text/javascript" src="~/Scripts/flipclock.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/beback-Admin.js"></script>
+}
+
+
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-md-1">
+                
+            </div>
+            <div class="col-md-10">
+                <h1>Admin Console</h1>
+                <hr />
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <h4>Display Calendar</h4>
+                <button id="btnShowWeek" class="btn btn-default">Show Week</button>
+                <button id="btnShowMonth" class="btn btn-default">Show Month</button>
+                <button id="btnPageReload" class="btn btn-danger" title="Presence is lost">Reload Page</button>
+                <p><b>NOTE</b>: When reloading the page, presence is lost!</p>
+                
+            </div>
+            <div class="col-md-5">
+                
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="form-group row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <hr />
+                <h4>Type a message:</h4>
+                <input class="form-control" id="txtTitle" type="text" placeholder="Title" />
+                @*<button id="btnTitle" class="btn btn-default">Submit</button>*@
+                
+                <input class="form-control" id="txtSubtitle" type="text" placeholder="SubTitle" />
+                @*<button id="btnSubtitle" class="btn btn-default">Submit</button>*@
+                
+                <input class="form-control" id="txtMessage" type="text" placeholder="Message" />
+                @*<button id="btnMessage" class="btn btn-default">Submit</button>*@
+                <br />
+                <button id="btnSubmit" class="btn btn-default">Submit</button>
+                <button id="btnClear" class="btn btn-default">Clear</button>
+
+            </div>
+            <div class="col-md-5">
+                <hr />
+                <h4>Preset time for the timer</h4>
+
+                <button id="btn15" class="btn btn-default">15 Minutes</button>
+                <button id="btn30" class="btn btn-default">30 Minutes</button>
+                <button id="btn60" class="btn btn-default">60 Minutes</button>
+                <h4>Or enter a custom time (minutes)</h4>
+                <input id="txtCustom" class="form-control" type="text" placeholder="Minutes" />
+                <br />
+                <button id="btnCustom" class="btn btn-default">Custom</button>
+
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-10">
+                <br />
+
+
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+
+
+
+
+

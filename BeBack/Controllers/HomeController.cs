@@ -17,7 +17,7 @@ namespace BeBack.Controllers
 
         public ActionResult Admin()
         {
-            return View();
+            return View("../Admin/Console", null);
         }
 
     }

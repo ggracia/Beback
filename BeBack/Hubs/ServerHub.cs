@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.AspNet.SignalR;
 
+
 namespace BeBack.Hubs
 {
     public class ServerHub : Hub 
@@ -64,7 +65,11 @@ namespace BeBack.Hubs
         }
 
 
+        public void UpdatePresence()
+        {
+            
 
+        }
 
     }
 }

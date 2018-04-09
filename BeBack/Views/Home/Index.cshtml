@@ -4,36 +4,53 @@
 
 @section scripts {
 
-    <script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.3.min.js"></script>
     @*<script type="text/javascript" src="~/signalr/hubs"></script>*@
     <script type="text/javascript" src="~/signalr/hubs"></script>
 
     <script type="text/javascript" src="~/Scripts/flipclock.min.js"></script>
-    <script type="text/javascript" src="~/Scripts/bebackClient.js"></script>
+    <script type="text/javascript" src="~/Scripts/beback-Client.js"></script>
 }
 
 
+<div class="container">
+
+</div>
 
 <div class="wrapper">
     <div id="overlay"></div>
     <div class="jumbotron">
         <div class="row">
             
-            <div class="col-lg-10">
-                <h1 id="pageTitle"></h1>
-                <h2 id="pageSubtitle">
-                    <iframe id="calendar" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=MONTH&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ggracia%40email.arizona.edu&amp;color=%23B1440E&amp;src=agr456%40email.arizona.edu&amp;color=%232952A3&amp;src=ctcantrell%40email.arizona.edu&amp;color=%2342104A&amp;src=gallucci%40email.arizona.edu&amp;color=%23060D5E&amp;src=jfragoso%40email.arizona.edu&amp;color=%232F6213&amp;src=email.arizona.edu_susf9db0kel18oetpuje81h1jk%40group.calendar.google.com&amp;color=%234E5D6C&amp;ctz=America%2FPhoenix" style="border-width:0; margin-top:-55px;" width="100%" height="560" frameborder="0" scrolling="no"></iframe>
-                </h2>
-                <h2 id="message"></h2>
-                <div id="clockWrapper" class="hidden">
-                    <div class="clock" style="margin:0em;"></div>
+            <div class="col-sm-10">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1 id="pageTitle"></h1>
+                        <h2 id="pageSubtitle">
+                            <iframe id="calendar" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=MONTH&amp;height=450&amp;wkst=1&amp;bgcolor=%23e6e3d9&amp;src=ggracia%40email.arizona.edu&amp;color=%23B1440E&amp;src=agr456%40email.arizona.edu&amp;color=%232952A3&amp;src=ctcantrell%40email.arizona.edu&amp;color=%2342104A&amp;src=gallucci%40email.arizona.edu&amp;color=%23060D5E&amp;src=jfragoso%40email.arizona.edu&amp;color=%232F6213&amp;src=email.arizona.edu_susf9db0kel18oetpuje81h1jk%40group.calendar.google.com&amp;color=%234E5D6C&amp;ctz=America%2FPhoenix" style="border-width:0; margin-top:-55px;" width="100%" frameborder="0" scrolling="no"></iframe>
+                        </h2>
+                        <h3 id="message"></h3>
+
+                    </div>
                 </div>
+
+                <div id="clockWrapper" class="row invisible">
+                    <div class="col-sm-12">
+                        
+                            
+                            <div class="clock" style="margin:0em;"></div>
+                        
+                    </div>
+                </div>
+                
+
             </div>
-            <div class="rightSection col-lg-2">
+            <div class="rightSection col-sm-2">
                 <h3>Presence</h3>
                 <div class="prescenceNotes">
                     <div class="btn btn-danger">Absent</div>
                     <div class="btn btn-warning">Away</div>
+                    <div class="btn btn-info">Working remotely</div>
                     <div class="btn btn-success">Present</div>
                 </div>
                 <hr />
